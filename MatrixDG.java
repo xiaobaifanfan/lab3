@@ -1,10 +1,4 @@
 package text1;
-/**
- * Java: ÁÚ½Ó¾ØÕóÍ¼
- *
- * @author skywang
- * @date 2015/04/12
- */
 
 import java.io.IOException;
 import java.util.Scanner;
